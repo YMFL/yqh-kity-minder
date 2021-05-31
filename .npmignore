@@ -25,4 +25,4 @@ config.js
 bower.json
 package-lock.json
 selenium-debug.log
-src/
+src/*
