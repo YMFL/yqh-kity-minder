@@ -1,7 +1,7 @@
 {
   "name": "yqh-kity-minder",
   "description": "kityMinder component for Vue",
-  "version": "1.0.1",
+  "version": "2.1.2",
   "license": "GPL 2.0",
   "private": false,
   "author": {
@@ -38,8 +38,7 @@
   "scripts": {
     "build": "cross-env NODE_ENV=production webpack --config config/build.conf.js",
     "lint": "eslint --ext .js,.vue src test/unit/specs",
-    "finish": "npm run lint && npm test && npm run build",
-    "publish": "git push && git push --tags && npm publish"
+    "finish": "npm run lint && npm test && npm run build"
   },
   "dependencies": {
     "codemirror": "^5.41.0",
