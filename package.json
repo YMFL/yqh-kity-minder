@@ -1,7 +1,7 @@
 {
   "name": "yqh-kity-minder",
   "description": "kityMinder component for Vue",
-  "version": "2.1.2",
+  "version": "1.1.2",
   "license": "GPL 2.0",
   "private": false,
   "author": {
