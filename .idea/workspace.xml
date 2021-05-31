@@ -1,815 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5000a0c9-9fdc-4251-9a51-524c1a2b982a" name="Default Changelist" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/base.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/build.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/test.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/angular-bootstrap/.bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/angular-bootstrap/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/angular-bootstrap/ui-bootstrap-tpls.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/angular-bootstrap/ui-bootstrap-tpls.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/angular-bootstrap/ui-bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/angular-bootstrap/ui-bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/angular-ui-codemirror/.bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/angular-ui-codemirror/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/angular-ui-codemirror/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/angular-ui-codemirror/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/angular-ui-codemirror/ui-codemirror.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/angular-ui-codemirror/ui-codemirror.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/angular/.bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/angular/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/angular/angular-csp.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/angular/angular.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/angular/angular.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/angular/angular.min.js.gzip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/angular/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/angular/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/angular/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/.bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/Gemfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/Gruntfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/ISSUE_TEMPLATE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/dist/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/dist/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/dist/js/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/grunt/.jshintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/grunt/bs-commonjs-generator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/grunt/bs-glyphicons-data-generator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/grunt/bs-lessdoc-parser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/grunt/bs-raw-files-generator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/grunt/change-version.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/grunt/configBridge.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/grunt/npm-shrinkwrap.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/grunt/sauce_browsers.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/js/.jscsrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/js/.jshintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/js/affix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/js/alert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/js/button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/js/carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/js/collapse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/js/dropdown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/js/modal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/js/popover.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/js/scrollspy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/js/tab.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/js/tooltip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/js/transition.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/.csscomb.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/.csslintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/alerts.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/badges.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/bootstrap.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/breadcrumbs.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/button-groups.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/buttons.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/carousel.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/close.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/code.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/component-animations.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/dropdowns.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/forms.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/glyphicons.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/grid.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/input-groups.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/jumbotron.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/labels.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/list-group.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/media.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/mixins.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/mixins/alerts.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/mixins/background-variant.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/mixins/border-radius.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/mixins/buttons.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/mixins/center-block.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/mixins/clearfix.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/mixins/forms.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/mixins/gradients.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/mixins/grid-framework.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/mixins/grid.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/mixins/hide-text.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/mixins/image.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/mixins/labels.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/mixins/list-group.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/mixins/nav-divider.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/mixins/nav-vertical-align.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/mixins/opacity.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/mixins/pagination.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/mixins/panels.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/mixins/progress-bar.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/mixins/reset-filter.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/mixins/reset-text.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/mixins/resize.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/mixins/responsive-visibility.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/mixins/size.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/mixins/tab-focus.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/mixins/table-row.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/mixins/text-emphasis.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/mixins/text-overflow.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/mixins/vendor-prefixes.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/modals.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/navbar.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/navs.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/normalize.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/pager.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/pagination.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/panels.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/popovers.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/print.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/progress-bars.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/responsive-embed.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/responsive-utilities.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/scaffolding.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/tables.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/theme.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/thumbnails.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/tooltip.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/type.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/utilities.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/variables.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/less/wells.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/nuget/MyGet.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/nuget/bootstrap.less.nuspec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/nuget/bootstrap.nuspec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/package.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/bootstrap/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/.bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/AUTHORS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/CONTRIBUTING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/comment/comment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/comment/continuecomment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/dialog/dialog.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/dialog/dialog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/display/fullscreen.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/display/fullscreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/display/placeholder.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/display/rulers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/edit/closebrackets.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/edit/closetag.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/edit/continuelist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/edit/matchbrackets.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/edit/matchtags.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/edit/trailingspace.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/fold/brace-fold.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/fold/comment-fold.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/fold/foldcode.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/fold/foldgutter.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/fold/foldgutter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/fold/indent-fold.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/fold/markdown-fold.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/fold/xml-fold.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/hint/anyword-hint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/hint/css-hint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/hint/html-hint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/hint/javascript-hint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/hint/python-hint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/hint/show-hint.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/hint/show-hint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/hint/sql-hint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/hint/xml-hint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/lint/coffeescript-lint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/lint/css-lint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/lint/javascript-lint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/lint/json-lint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/lint/lint.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/lint/lint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/lint/yaml-lint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/merge/merge.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/merge/merge.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/mode/loadmode.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/mode/multiplex.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/mode/multiplex_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/mode/overlay.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/mode/simple.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/runmode/colorize.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/runmode/runmode-standalone.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/runmode/runmode.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/runmode/runmode.node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/scroll/scrollpastend.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/search/match-highlighter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/search/search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/search/searchcursor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/selection/active-line.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/selection/mark-selection.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/tern/tern.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/tern/tern.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/tern/worker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/addon/wrap/hardwrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/keymap/emacs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/keymap/sublime.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/keymap/vim.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/lib/codemirror.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/lib/codemirror.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/apl/apl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/asterisk/asterisk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/clike/clike.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/clike/scala.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/clojure/clojure.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/cobol/cobol.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/coffeescript/coffeescript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/commonlisp/commonlisp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/css/css.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/css/less.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/css/less_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/css/scss.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/css/scss_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/css/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/cypher/cypher.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/d/d.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/diff/diff.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/django/django.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/dockerfile/dockerfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/dtd/dtd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/dylan/dylan.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/ecl/ecl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/eiffel/eiffel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/erlang/erlang.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/fortran/fortran.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/gas/gas.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/gfm/gfm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/gfm/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/gherkin/gherkin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/go/go.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/groovy/groovy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/haml/haml.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/haml/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/haskell/haskell.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/haxe/haxe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/htmlembedded/htmlembedded.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/htmlmixed/htmlmixed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/http/http.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/idl/idl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/jade/jade.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/javascript/javascript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/javascript/json-ld.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/javascript/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/javascript/typescript.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/jinja2/jinja2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/julia/julia.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/kotlin/kotlin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/livescript/livescript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/lua/lua.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/markdown/markdown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/markdown/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/meta.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/mirc/mirc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/mllike/mllike.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/modelica/modelica.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/nginx/nginx.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/ntriples/ntriples.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/octave/octave.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/pascal/pascal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/pegjs/pegjs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/perl/perl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/php/php.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/php/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/pig/pig.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/properties/properties.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/puppet/puppet.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/python/python.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/q/q.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/r/r.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/rpm/rpm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/rst/rst.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/ruby/ruby.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/ruby/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/rust/rust.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/sass/sass.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/scheme/scheme.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/shell/shell.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/shell/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/sieve/sieve.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/slim/slim.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/slim/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/smalltalk/smalltalk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/smarty/smarty.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/smartymixed/smartymixed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/solr/solr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/sparql/sparql.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/sql/sql.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/stex/stex.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/stex/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/tcl/tcl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/textile/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/textile/textile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/tiddlywiki/tiddlywiki.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/tiddlywiki/tiddlywiki.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/tiki/tiki.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/tiki/tiki.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/toml/toml.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/tornado/tornado.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/turtle/turtle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/vb/vb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/vbscript/vbscript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/velocity/velocity.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/verilog/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/verilog/verilog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/xml/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/xml/xml.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/xquery/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/xquery/xquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/yaml/yaml.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/mode/z80/z80.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/theme/3024-day.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/theme/3024-night.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/theme/ambiance-mobile.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/theme/ambiance.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/theme/base16-dark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/theme/base16-light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/theme/blackboard.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/theme/cobalt.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/theme/eclipse.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/theme/elegant.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/theme/erlang-dark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/theme/lesser-dark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/theme/mbo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/theme/mdn-like.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/theme/midnight.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/theme/monokai.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/theme/neat.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/theme/neo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/theme/night.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/theme/paraiso-dark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/theme/paraiso-light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/theme/pastel-on-dark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/theme/rubyblue.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/theme/solarized.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/theme/the-matrix.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/theme/tomorrow-night-eighties.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/theme/twilight.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/theme/vibrant-ink.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/theme/xq-dark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/codemirror/theme/xq-light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/color-picker/.bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/color-picker/Gruntfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/color-picker/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/color-picker/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/color-picker/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/color-picker/dist/color-picker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/color-picker/dist/color-picker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/color-picker/dist/color-picker.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/color-picker/dist/color-picker.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/color-picker/dist/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/color-picker/docs/README.en-us.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/color-picker/docs/README.zh-cn.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/color-picker/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/color-picker/less/color-picker.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/color-picker/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/color-picker/snap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/color-picker/src/color-picker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/color-picker/src/lang.service.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/hotbox/.bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/hotbox/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/hotbox/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/hotbox/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/hotbox/hotbox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/hotbox/hotbox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/hotbox/hotbox.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/hotbox/less/hotbox.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/hotbox/snap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/hotbox/src/expose.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/hotbox/src/hotbox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/hotbox/src/key.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/hotbox/src/keycontrol.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/hotbox/src/keymap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/hotbox/test/SpecRunner.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/hotbox/test/lib/jasmine-2.1.3/boot.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/hotbox/test/lib/jasmine-2.1.3/console.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/hotbox/test/lib/jasmine-2.1.3/jasmine-html.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/hotbox/test/lib/jasmine-2.1.3/jasmine.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/hotbox/test/lib/jasmine-2.1.3/jasmine.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/.bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/AUTHORS.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/dist/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/dist/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/dist/jquery.slim.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/dist/jquery.slim.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/external/sizzle/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/external/sizzle/dist/sizzle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/external/sizzle/dist/sizzle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/ajax.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/ajax/jsonp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/ajax/load.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/ajax/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/ajax/var/location.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/ajax/var/nonce.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/ajax/var/rquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/ajax/xhr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/attributes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/attributes/attr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/attributes/classes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/attributes/prop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/attributes/support.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/attributes/val.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/callbacks.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/core.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/core/DOMEval.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/core/access.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/core/camelCase.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/core/init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/core/isAttached.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/core/nodeName.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/core/parseHTML.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/core/parseXML.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/core/ready-no-deferred.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/core/ready.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/core/readyException.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/core/stripAndCollapse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/core/support.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/core/toType.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/core/var/rsingleTag.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/css.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/css/addGetHookIf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/css/adjustCSS.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/css/curCSS.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/css/finalPropName.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/css/hiddenVisibleSelectors.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/css/showHide.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/css/support.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/css/var/cssExpand.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/css/var/getStyles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/css/var/isHiddenWithinTree.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/css/var/rboxStyle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/css/var/rnumnonpx.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/css/var/swap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/data/Data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/data/var/acceptData.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/data/var/dataPriv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/data/var/dataUser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/deferred.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/deferred/exceptionHook.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/deprecated.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/deprecated/ajax-event-alias.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/deprecated/event.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/dimensions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/effects.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/effects/Tween.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/effects/animatedSelector.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/event.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/event/focusin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/event/support.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/event/trigger.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/exports/amd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/exports/global.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/manipulation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/manipulation/_evalUrl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/manipulation/buildFragment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/manipulation/getAll.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/manipulation/setGlobalEval.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/manipulation/support.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/manipulation/var/rscriptType.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/manipulation/var/rtagName.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/manipulation/wrapMap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/offset.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/queue.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/queue/delay.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/selector-native.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/selector-sizzle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/selector.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/serialize.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/traversing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/traversing/findFilter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/traversing/var/dir.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/traversing/var/rneedsContext.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/traversing/var/siblings.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/var/ObjectFunctionString.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/var/arr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/var/class2type.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/var/document.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/var/documentElement.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/var/flat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/var/fnToString.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/var/getProto.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/var/hasOwn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/var/indexOf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/var/isFunction.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/var/isWindow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/var/pnum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/var/push.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/var/rcheckableType.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/var/rcssNum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/var/rnothtmlwhite.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/var/slice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/var/support.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/var/toString.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/jquery/src/wrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/json-diff/.bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/json-diff/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/json-diff/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/json-diff/json-diff.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/json-diff/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/.bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/Gruntfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/_sample.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/_text.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/chinamap/chinamap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/chinamap/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/clock.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/force-chart/force-chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/force-chart/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/graffle/bezierconnection.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/graffle/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/kitychart/charts/chinamap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/kitychart/charts/gender-chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/kitychart/charts/line-chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/kitychart/charts/pie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/kitychart/charts/poly-chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/kitychart/charts/scatter-diagram.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/kitychart/charts/ubp-map.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/kitychart/charts/view.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/kitychart/dark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/kitychart/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/kitychart/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/kitychart/lib/quo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/kitychart/light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/kitychart/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/kitychart/test/data.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/pathdiagram/colors.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/pathdiagram/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/pathdiagram/dataquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/pathdiagram/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/pathdiagram/levelcontainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/pathdiagram/pathdiagram.app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/pathdiagram/pathdiagram.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/pathdiagram/pathnode.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/pathdiagram/searchpath.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/ps-pen/demo.controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/ps-pen/demo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/ps-pen/demo.pointgroup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/ps-pen/demo.start.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/ps-pen/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/public/draggable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/public/grid.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/public/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/ringpalette/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/ringpalette/pie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/ringpalette/ringpalette.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/texteditor.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/threebody.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/demo/viewport.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/dist/kity.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/dist/kity.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/doc/2.0 API update suggestions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/doc/API.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/doc/Animate API.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/doc/Computer Graphic.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/doc/Get Started.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/doc/Use Mask and Clip.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/doc/images/anchorrotate.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/doc/images/bezier.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/doc/images/curve.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/doc/images/flower.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/doc/images/hello-kity.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/doc/images/linear.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/doc/images/matrix.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/doc/images/pattern.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/doc/images/pen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/doc/images/radial.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/doc/images/rotate.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/doc/images/scale.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/doc/images/scale2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/doc/images/scale3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/doc/images/skew.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/doc/images/skew1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/doc/images/skew2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/doc/images/text.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/doc/images/textpath.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/doc/images/translate.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/doc/images/viewbox.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/animate.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/bezier.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/boundarybox.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/clip.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/coordinate.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/coordinate/coordinate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/coordinate/ex1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/coordinate/ex2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/coordinate/ex3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/coordinate/ex4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/coordinate/ex5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/coordinate/ex6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/curve.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/easing.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/filter/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/filter/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/filter/convolve/blur.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/filter/convolve/edge-detection.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/filter/convolve/relief.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/filter/convolve/sharpen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/filter/convolvematrix.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/filter/gaussianblur.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/filter/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/filter/projection.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/first.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/formula/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/formula/2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/formula/3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/formula/4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/formula/5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/formula/6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/formula/7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/formula/8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/formula/9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/formula/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/geometry.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/group.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/lineargradientbrush.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/mask.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/path.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/patternbrush.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/pen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/radialgradientbrush.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/renderbox.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/text.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/textalign.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/transform.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/use.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/example/viewbox.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/animate/animator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/animate/easing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/animate/frame.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/animate/motionanimator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/animate/opacityanimator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/animate/pathanimator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/animate/rotateanimator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/animate/scaleanimator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/animate/timeline.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/animate/translateanimator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/core/browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/core/class.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/core/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/filter/effect/colormatrixeffect.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/filter/effect/compositeeffect.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/filter/effect/convolvematrixeffect.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/filter/effect/effect.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/filter/effect/gaussianblureffect.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/filter/effect/offseteffect.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/filter/effectcontainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/filter/filter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/filter/gaussianblurfilter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/filter/projectionfilter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/bezier.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/bezierpoint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/box.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/circle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/clip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/color.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/container.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/curve.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/ellipse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/eventhandler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/geometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/gradient.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/group.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/hyperlink.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/image.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/line.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/lineargradient.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/marker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/mask.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/matrix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/palette.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/paper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/path.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/pattern.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/pen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/pie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/point.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/pointcontainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/poly.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/polygon.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/polyline.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/radialgradient.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/rect.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/regularpolygon.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/resource.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/ring.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/shape.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/shapecontainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/shapeevent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/shapepoint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/standardcolor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/star.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/styled.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/svg.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/sweep.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/text.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/textcontent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/textspan.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/use.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/vector.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/view.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/graphic/viewbox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/kity/src/kity.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/.bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/SECURITY.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/api/dingus.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/bin/marked" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/build-docs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/component.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/docs/AUTHORS.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/docs/CODE_OF_CONDUCT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/docs/CONTRIBUTING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/docs/INDEX.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/docs/PUBLISHING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/docs/USING_ADVANCED.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/docs/USING_PRO.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/docs/_document.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/docs/broken.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/docs/css/hljs-github.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/docs/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/docs/demo/demo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/docs/demo/demo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/docs/demo/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/docs/demo/initial.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/docs/demo/preview.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/docs/demo/quickref.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/docs/demo/worker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/docs/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/docs/img/logo-black-and-white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/docs/img/logo-black.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/jasmine.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/lib/marked.esm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/lib/marked.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/man/marked.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/man/marked.1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/marked.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/release.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/rollup.config.esm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/rollup.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/src/Lexer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/src/Parser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/src/Renderer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/src/Slugger.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/src/TextRenderer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/src/Tokenizer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/src/defaults.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/src/helpers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/src/marked.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/src/rules.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/marked/vercel.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/seajs/.bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/seajs/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/seajs/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/seajs/dist/sea-debug.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/bower_components/seajs/dist/sea.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/diy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/images/iconpriority.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/images/iconprogress.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/images/icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/images/template.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/kityminder.editor.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/kityminder.editor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/kityminder.editor.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/kityminder.editor.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/minder.vue" afterDir="false" />
+    <list default="true" id="5000a0c9-9fdc-4251-9a51-524c1a2b982a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -854,17 +48,17 @@
           <entry key="eslintignore" value="18" />
           <entry key="gitignore" value="5" />
           <entry key="js" value="34" />
-          <entry key="json" value="100" />
-          <entry key="npmignore" value="4" />
-          <entry key="txt" value="14" />
+          <entry key="json" value="112" />
+          <entry key="npmignore" value="5" />
+          <entry key="txt" value="17" />
           <entry key="vue" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSON" value="100" />
+          <entry key="JSON" value="112" />
           <entry key="JavaScript" value="34" />
-          <entry key="PLAIN_TEXT" value="41" />
+          <entry key="PLAIN_TEXT" value="45" />
           <entry key="Vue.js" value="5" />
         </counts>
       </usages-collector>
@@ -879,10 +73,10 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/package.json">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="303">
+                <state relative-caret-position="357">
                   <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
                 </state>
               </provider>
@@ -911,11 +105,11 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/index.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="294">
-                  <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+                <state relative-caret-position="483">
+                  <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
                   <folding>
                     <element signature="e#0#27#0" expanded="true" />
                   </folding>
@@ -926,8 +120,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/.npmignore">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="567">
-                  <caret line="27" column="4" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+                <state relative-caret-position="588">
+                  <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
                 </state>
               </provider>
             </entry>
@@ -971,8 +165,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/package.json">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="158">
-                  <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+                <state relative-caret-position="326">
+                  <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
                 </state>
               </provider>
             </entry>
@@ -994,8 +188,10 @@
       <find>/hotbox/hotbox.css</find>
       <find>url</find>
       <find>devDependencies</find>
-      <find>file-loader</find>
       <find>jquery</find>
+      <find>yangqianhui</find>
+      <find>file-loader</find>
+      <find>ymfl</find>
     </findStrings>
     <replaceStrings>
       <replace>./component</replace>
@@ -1014,11 +210,11 @@
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/minder.vue" />
         <option value="$PROJECT_DIR$/config/build.conf.js" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/.eslintignore" />
         <option value="$PROJECT_DIR$/config/base.conf.js" />
-        <option value="$PROJECT_DIR$/.npmignore" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/.npmignore" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -1054,29 +250,6 @@
             <path>
               <item name="yqh-kity-minder" type="b2602c69:ProjectViewProjectNode" />
               <item name="yqh-kity-minder" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yqh-kity-minder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yqh-kity-minder" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yqh-kity-minder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yqh-kity-minder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yqh-kity-minder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yqh-kity-minder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="component" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yqh-kity-minder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yqh-kity-minder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="component" type="462c0819:PsiDirectoryNode" />
-              <item name="bower_components" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1124,12 +297,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622440701467</updated>
-      <workItem from="1622440702771" duration="4309000" />
+      <workItem from="1622440702771" duration="5216000" />
     </task>
+    <task id="LOCAL-00001" summary="--">
+      <created>1622445839159</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622445839159</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4309000" />
+    <option name="totallyTimeSpent" value="5216000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="2560" height="1440" extended-state="0" />
@@ -1138,13 +319,13 @@
       <window_info id="npm" side_tool="true" />
       <window_info id="DB Browser" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13835725" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13835725" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="DB Execution Console" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.38712066" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.38712066" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -1166,7 +347,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="--" />
+    <option name="LAST_COMMIT_MESSAGE" value="--" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/kityMinder/src/minder.vue">
@@ -1239,13 +421,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.npmignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="27" column="4" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dist/yqh-kity-minder.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
@@ -1260,13 +435,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="571">
@@ -1276,11 +444,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        <state relative-caret-position="483">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="e#0#27#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.npmignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
         </state>
       </provider>
     </entry>

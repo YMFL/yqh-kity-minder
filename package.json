@@ -1,11 +1,11 @@
 {
   "name": "yqh-kity-minder",
   "description": "kityMinder component for Vue",
-  "version": "2.0.1",
+  "version": "1.0.1",
   "license": "GPL 2.0",
   "private": false,
   "author": {
-    "name": "yangqianhui",
+    "name": "ymfl",
     "email": "395041293@qq.com"
   },
   "bugs": {
